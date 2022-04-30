@@ -1,0 +1,49 @@
+# -------------------------------------------------------------------------- #
+# calc_one Pin & Location Assignments
+# -------------------------------------------------------------------------- #
+set_location_assignment PIN_A12 -to CLK
+set_location_assignment PIN_AB20 -to RST_X
+
+set_location_assignment PIN_C19 -to PSW[13]
+set_location_assignment PIN_D19 -to PSW[12]
+set_location_assignment PIN_B19 -to PSW[11]
+set_location_assignment PIN_A20 -to PSW[10]
+set_location_assignment PIN_G15 -to PSW[9]
+set_location_assignment PIN_F15 -to PSW[8]
+set_location_assignment PIN_E15 -to PSW[7]
+set_location_assignment PIN_F16 -to PSW[6]
+set_location_assignment PIN_E16 -to PSW[5]
+set_location_assignment PIN_B16 -to PSW[4]
+set_location_assignment PIN_D17 -to PSW[3]
+set_location_assignment PIN_C17 -to PSW[2]
+set_location_assignment PIN_B17 -to PSW[1]
+set_location_assignment PIN_A19 -to PSW[0]
+
+set_location_assignment PIN_A3 -to SEG_1_OUT[7]
+set_location_assignment PIN_B6 -to SEG_1_OUT[6]
+set_location_assignment PIN_A6 -to SEG_1_OUT[5]
+set_location_assignment PIN_A5 -to SEG_1_OUT[4]
+set_location_assignment PIN_B4 -to SEG_1_OUT[3]
+set_location_assignment PIN_B3 -to SEG_1_OUT[2]
+set_location_assignment PIN_A4 -to SEG_1_OUT[1]
+set_location_assignment PIN_B5 -to SEG_1_OUT[0]
+set_location_assignment PIN_C3 -to SEG_SEL_1[3]
+set_location_assignment PIN_C4 -to SEG_SEL_1[2]
+set_location_assignment PIN_E5 -to SEG_SEL_1[1]
+set_location_assignment PIN_E6 -to SEG_SEL_1[0]
+
+set_location_assignment PIN_C6 -to SEG_2_OUT[7]
+set_location_assignment PIN_F7 -to SEG_2_OUT[6]
+set_location_assignment PIN_E7 -to SEG_2_OUT[5]
+set_location_assignment PIN_C7 -to SEG_2_OUT[4]
+set_location_assignment PIN_B7 -to SEG_2_OUT[3]
+set_location_assignment PIN_D6 -to SEG_2_OUT[2]
+set_location_assignment PIN_A7 -to SEG_2_OUT[1]
+set_location_assignment PIN_D7 -to SEG_2_OUT[0]
+set_location_assignment PIN_H10 -to SEG_SEL_2[3]
+set_location_assignment PIN_G9 -to SEG_SEL_2[2]
+set_location_assignment PIN_G8 -to SEG_SEL_2[1]
+set_location_assignment PIN_G7 -to SEG_SEL_2[0]
+# -------------------------------------------------------------------------- #
+# end of pin assignment data
+# -------------------------------------------------------------------------- #
