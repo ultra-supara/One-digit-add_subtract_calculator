@@ -18,7 +18,7 @@
 
 ![IMG_1410](https://user-images.githubusercontent.com/67861004/234933437-4edf7768-ec3a-4170-8359-38aade4f50ad.jpg)
 
-- Tips
+Tips
 ![IMG_1413](https://user-images.githubusercontent.com/67861004/234933566-c26dddcc-f855-48c0-814c-730b656c2d4f.jpg)
 ![IMG_1414](https://user-images.githubusercontent.com/67861004/234933660-e285b957-dc59-4d25-972a-9372012e6699.jpg)
 
