@@ -1,3 +1,4 @@
+// wa
 module add (A_DATA, B_DATA, SUB_SEL, SUM_DATA);
 input[5:0]  A_DATA, B_DATA;
 input       SUB_SEL;
