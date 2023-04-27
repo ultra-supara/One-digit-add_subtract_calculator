@@ -1,7 +1,8 @@
 # One-digit_add_subtract_calculator
 
-# Architecture
-![](https://drive.google.com/file/d/16PPjmDizxiPpB0N9Xv6y6VQam_1YFAgw/view?usp=share_link)
+## Architecture
+
+![IMG_1417](https://user-images.githubusercontent.com/67861004/234933781-98df4988-25af-407f-9e27-2c98d9ebc2da.jpg)
 
 - Simple design of 4-bit binary up-counter
 - Design of halfadder & fulladder and verification of operation by logic simulation
@@ -11,17 +12,19 @@
 - Once it is verified that the circuit works correctly, implement it in FPGA and check it in the production environment.
 - RTL description (Register-Transfer Level) High level of abstraction in the order of { operation > register transfer > gate > transistor }
 
-# Operating environment
+## Operating environment
+
 - Quartus-lite-20.1.0.711-windows
 
-![](https://drive.google.com/file/d/16LGWOdlJM6T6w8qc1M6IJWiREui0u_DG/view?usp=share_link)
+![IMG_1410](https://user-images.githubusercontent.com/67861004/234933437-4edf7768-ec3a-4170-8359-38aade4f50ad.jpg)
 
 - Tips
-![](https://drive.google.com/file/d/16Jwy8de9LAesrQ2T4KahHrzIPbLHb438/view?usp=share_link)
-![](https://drive.google.com/file/d/16JdQQ7DxLorve5EwZlvL1xOEHBStjsv0/view?usp=share_link)
+![IMG_1413](https://user-images.githubusercontent.com/67861004/234933566-c26dddcc-f855-48c0-814c-730b656c2d4f.jpg)
+![IMG_1414](https://user-images.githubusercontent.com/67861004/234933660-e285b957-dc59-4d25-972a-9372012e6699.jpg)
 
 - FPGA:Altera Cyclone IV : <https://www.intel.co.jp/content/www/jp/ja/products/details/fpga/cyclone/iv/e.html>
 - Monitor:Model Sim: <https://www.intel.co.jp/content/www/jp/ja/software/programmable/quartus-prime/model-sim.html>
 
-# Result
-![](https://drive.google.com/file/d/16Sg4SACc6zlDcs35UD-obtY-Fsld58kl/view?usp=share_link)
+## Result
+
+![IMG_1415](https://user-images.githubusercontent.com/67861004/234933727-dc994e8e-6e2e-4a74-8408-f493e2ae3434.jpg)
